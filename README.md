@@ -25,9 +25,7 @@ An interactive web application built with React that allows users to test their 
         Personalized feedback such as:
 	
 	   • 🎉 “Awesome!”
-       
-  • 😊 “Nice Try!”
-	      
+           • 😊 “Nice Try!”
 	   • 🙁 “Better Luck Next Time!”
        
        
