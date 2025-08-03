@@ -23,10 +23,9 @@ An interactive web application built with React that allows users to test their 
     • Motivational End Messages
     
         Personalized feedback such as:
-	
-	   • 🎉 “Awesome!”
-           • 😊 “Nice Try!”
-	   • 🙁 “Better Luck Next Time!”
+	     🎉 “Awesome!”
+             😊 “Nice Try!”
+	     🙁 “Better Luck Next Time!”
        
        
     • Navigation
