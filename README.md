@@ -6,31 +6,46 @@ An interactive web application built with React that allows users to test their 
 
 🚀 Features
 
-	•	Dynamic Question Display
- 
-     • Displays one question at a time for a clean and focused user experience.
 
-  • Instant Answer Feedback
+    • Dynamic Question Display
+    
+    • Displays one question at a time for a clean and focused user experience.
+    
+    • Instant Answer Feedback
+    
 	   •	Correct answers are highlighted in green.
-	   •	Incorrect answers are highlighted in red.
-  •	Score Tracking
+    
+	   •    Incorrect answers are highlighted in red.
+    
+    • Score Tracking
+    
       Live score updates after each question.
-
-	•	Motivational End Messages
-      Personalized feedback such as:
-	  •	🎉 “Awesome!”
-  	•	😊 “Nice Try!”
-	  •	🙁 “Better Luck Next Time!”
-	•	Navigation
-  	•	“Next” button to move to the next question.
-	  •	“Submit” button on the final question to finish the quiz.
-	•	Reset Option
-    Restart the quiz anytime using the “Reset” button.
+      
+    • Motivational End Messages
+    
+        Personalized feedback such as:
+	
+	      •	🎉 “Awesome!”
+       
+  	      • 😊 “Nice Try!”
+	 
+	      •	🙁 “Better Luck Next Time!”
+       
+    • Navigation
+    
+  	      •	“Next” button to move to the next question.
+	 
+	      •	“Submit” button on the final question to finish the quiz.
+       
+    •  Reset Option
+    
+                Restart the quiz anytime using the “Reset” button.
 
 ⸻
 
 🛠️ Tech Stack
 	•	React – Front-end framework for building the app.
+ 
 	•	CSS – For styling and responsive design.
 
 ⸻
@@ -46,18 +61,31 @@ An interactive web application built with React that allows users to test their 
 
 📁 Project Structure
 
+
 quiz-app/
+
 ├── public/
+
 ├── src/
+
 │   ├── components/
+
 │   ├── App.js
+
 │   ├── index.js
+
 │   └── App.css
+
 ├── package.json
+
 └── README.md
+
 
 
 💡 Future Enhancements
 	•	Add timer-based quizzes.
+ 
 	•	Support multiple categories and difficulty levels.
+
+ 
 	•	Save scores and user history in local storage or a database.
