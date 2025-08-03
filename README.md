@@ -24,18 +24,18 @@ An interactive web application built with React that allows users to test their 
     
         Personalized feedback such as:
 	
-	      •	🎉 “Awesome!”
+	 • 🎉 “Awesome!”
        
-              • 😊 “Nice Try!”
+         • 😊 “Nice Try!”
 	      
-	      •	🙁 “Better Luck Next Time!”
+	 • 🙁 “Better Luck Next Time!”
        
        
     • Navigation
     
-              •	“Next” button to move to the next question.
+        •	“Next” button to move to the next question.
 	      
-	      •	“Submit” button on the final question to finish the quiz.
+        •	“Submit” button on the final question to finish the quiz.
        
     • Reset Option
     
