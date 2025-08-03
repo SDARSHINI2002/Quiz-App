@@ -12,9 +12,9 @@ An interactive web application built with React that allows users to test their 
     
     • Instant Answer Feedback
 
-      •	Correct answers are highlighted in green.
+       •	Correct answers are highlighted in green.
       
-      • Incorrect answers are highlighted in red.
+       •        Incorrect answers are highlighted in red.
       
     • Score Tracking
     
