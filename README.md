@@ -26,7 +26,7 @@ An interactive web application built with React that allows users to test their 
 	
 	   • 🎉 “Awesome!”
        
-           • 😊 “Nice Try!”
+  • 😊 “Nice Try!”
 	      
 	   • 🙁 “Better Luck Next Time!”
        
