@@ -6,39 +6,22 @@ An interactive web application built with React that allows users to test their 
 
 🚀 Features
 
-
     • Dynamic Question Display
-    
     • Displays one question at a time for a clean and focused user experience.
-    
     • Instant Answer Feedback
-    
-	   •	Correct answers are highlighted in green.
-    
-	   •    Incorrect answers are highlighted in red.
-    
+      •	Correct answers are highlighted in green.
+      • Incorrect answers are highlighted in red.
     • Score Tracking
-    
-      Live score updates after each question.
-      
+        Live score updates after each question.
     • Motivational End Messages
-    
         Personalized feedback such as:
-	
 	      •	🎉 “Awesome!”
-       
-  	      • 😊 “Nice Try!”
-	 
+              • 😊 “Nice Try!”
 	      •	🙁 “Better Luck Next Time!”
-       
     • Navigation
-    
-  	      •	“Next” button to move to the next question.
-	 
+              •	“Next” button to move to the next question.
 	      •	“Submit” button on the final question to finish the quiz.
-       
-    •  Reset Option
-    
+    • Reset Option
                 Restart the quiz anytime using the “Reset” button.
 
 ⸻
