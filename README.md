@@ -83,7 +83,9 @@ quiz-app/
 
 
 💡 Future Enhancements
+
 	•	Add timer-based quizzes.
+ 
  
 	•	Support multiple categories and difficulty levels.
 
