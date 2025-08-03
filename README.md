@@ -33,10 +33,31 @@ An interactive web application built with React that allows users to test their 
 	•	React – Front-end framework for building the app.
 	•	CSS – For styling and responsive design.
 
-⸻<img width="912" height="668" alt="Screenshot 2025-08-03 071928" src="https://github.com/user-attachments/assets/ecbf41e5-42df-48fa-b5c8-16cfd145c2a5" />
+⸻
+
+📸 Screenshots
+
+<img width="912" height="668" alt="Screenshot 2025-08-03 071928" src="https://github.com/user-attachments/assets/ecbf41e5-42df-48fa-b5c8-16cfd145c2a5" />
 <img width="913" height="739" alt="Screenshot 2025-08-03 071901" src="https://github.com/user-attachments/assets/23036b74-0c8e-4d0d-88cc-6438a9be3af5" />
 <img width="1004" height="727" alt="Screenshot 2025-08-03 071830" src="https://github.com/user-attachments/assets/1804d9dd-5d34-458a-bc35-6df46d3f168f" />
 <img width="935" height="734" alt="Screenshot 2025-08-03 071742" src="https://github.com/user-attachments/assets/995d358f-52f7-4d2e-b883-3b23c19298dd" />
 
+⸻
 
-📸 Screenshots
+📁 Project Structure
+
+quiz-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+├── package.json
+└── README.md
+
+
+💡 Future Enhancements
+	•	Add timer-based quizzes.
+	•	Support multiple categories and difficulty levels.
+	•	Save scores and user history in local storage or a database.
